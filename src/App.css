@@ -1,0 +1,24 @@
+.insert-style {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+.mainName {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+}
+.allBox {
+  display: flex;
+}
+.box {
+  width: 120px;
+  height: 120px;
+
+  border: 1px solid green;
+  border-radius: 10px;
+
+  margin: 30px 20px;
+
+  text-align: center;
+}
